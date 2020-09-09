@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RepeatedString",
+            "request": "launch",
+            "mainClass": "RepeatedString"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountingValleys",
             "request": "launch",
             "mainClass": "CountingValleys"
