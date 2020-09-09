@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingValleys",
+            "request": "launch",
+            "mainClass": "CountingValleys"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DrawingBook",
+            "request": "launch",
+            "mainClass": "DrawingBook"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SockMerchant",
+            "request": "launch",
+            "mainClass": "SockMerchant"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BonAppetit",
+            "request": "launch",
+            "mainClass": "BonAppetit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DivisibleSumPairs",
+            "request": "launch",
+            "mainClass": "DivisibleSumPairs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BirthdayChocolate",
+            "request": "launch",
+            "mainClass": "BirthdayChocolate"
+        }
+    ]
+}
