@@ -15,7 +15,6 @@ public class RepeatedString {
         // custom input 
         String s = "aba";
         long n = 10;
-        String newString = s;
         long repeated = 0;
         long totalOcurrence = 0;
         

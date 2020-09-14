@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArrayLeftRotation",
+            "request": "launch",
+            "mainClass": "ArrayLeftRotation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoDArrayDs",
+            "request": "launch",
+            "mainClass": "TwoDArrayDs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pallindrom",
+            "request": "launch",
+            "mainClass": "Pallindrom"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RepeatedString",
             "request": "launch",
             "mainClass": "RepeatedString"
